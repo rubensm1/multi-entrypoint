@@ -1,3 +1,3 @@
 # multi-entrypoint
 
-Executando mais de um entrypoing em um container docker
+Executando mais de um entrypoint em um container docker
